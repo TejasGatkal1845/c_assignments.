@@ -61,7 +61,7 @@ do{
       case exit:
 	  {
             
-          
+          printf("THANK YOU\n");
 
 	  }
 	   break;
